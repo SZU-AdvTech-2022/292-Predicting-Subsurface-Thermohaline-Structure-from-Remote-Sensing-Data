@@ -1,0 +1,6 @@
+@article{REPO-293,
+    author = "Su, Hua and Zhang, Tianyi and Lin, Mengjing and Lu, Wenfang and Yan, Xiao©\Hai",
+    journal = "Remote Sensing of Environment",
+    title = "{Predicting Subsurface Thermohaline Structure from Remote Sensing Data Based on Long Short-term Memory Neural Networks}",
+    year = "2021"
+}
